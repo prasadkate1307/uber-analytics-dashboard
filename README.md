@@ -117,16 +117,13 @@ uber-analytics-dashboard/
 
 ## 📸 Dashboard Screenshots
 
-> *(Add screenshots of each dashboard page here)*
+
+> <img width="1326" height="743" alt="revenue_analysis" src="https://github.com/user-attachments/assets/5310f87a-cd48-45e5-a502-19e54b886ad0" />
+<img width="1312" height="736" alt="ride_and_booking" src="https://github.com/user-attachments/assets/49d4791a-4c3b-4938-b439-06803564fc61" />
+
 > <img width="1311" height="732" alt="cancellationAnalysis" src="https://github.com/user-attachments/assets/9d44d78c-b71d-4db3-9784-1f3d6e5b4556" />
+<img width="1322" height="741" alt="customer insights" src="https://github.com/user-attachments/assets/57296179-8da4-4ace-9bf6-8126391f8800" />
 
-
-| Page | Preview |
-|---|---|
-| Revenue Analysis | ![Revenue](screenshots/revenue_page.png) |
-| Bookings Overview | ![Bookings](screenshots/bookings_page.png) |
-| Cancellation Analysis | ![Cancellation](screenshots/cancellation_page.png) |
-| Driver Insights | ![Driver](screenshots/driver_insights_page.png) |
 
 ---
 
