@@ -141,26 +141,7 @@ Uber brand colors used throughout:
 
 ---
 
-## ▶️ How to Use
 
-```bash
-# Clone the repository
-git clone https://github.com/prasadkate1307/uber-analytics-dashboard.git
-
-# Navigate to project folder
-cd uber-analytics-dashboard
-
-# Install Python dependencies
-pip install -r requirements.txt
-
-# Run EDA notebook
-jupyter notebook notebooks/uber_eda.ipynb
-
-# Open Power BI dashboard
-# Open dashboard/uber_dashboard.pbix in Power BI Desktop
-```
-
----
 
 ## 👤 Author
 
